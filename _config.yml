@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "It's me"
+title                    : "Rafie Rizqullah Razak"
 title_separator          : "-"
 name                     : &name "Rubic 36"
 description              : &description "personal description"
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hogwart"
-  employer         : "Red Brick University"
+  employer         : "SMA Trensains Muhammadiyah Sragen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rafie.rizq@siswa.trensains.sch.id" 
 
   # Academic websites
   academia         : # URL
